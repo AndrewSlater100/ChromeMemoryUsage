@@ -1,6 +1,7 @@
 # Monitors total memory usage of all Chrome processes
 # Requirements: Python 3.6+ and Pandas
 # Credit to github.com/tfiers
+# For use with Windows O/S
 
 print('Press Ctrl-C to stop program')
 print('\n..', end='')
